@@ -75,6 +75,7 @@
 ### Observers
 * [Dynamic Binding in Ember.js Using Observers](http://spin.atomicobject.com/2013/05/12/dynamic-ember-js-binding-observers/)
 * [Debounced and Throttled Observers in Ember.js](http://alexspeller.com/debounced-and-throttled-observers-in-ember-js/)
+* [Reactive Modeling with Ember](http://frontside.io/blog/2014/09/21/reactive-modeling-with-ember.html)
 
 ### Computed Properties
 
@@ -185,6 +186,8 @@
 * [A Simple Ember Data Route](http://reefpoints.dockyard.com/2014/03/03/a-simple-ember-data-route.html)
 * [Ember Data & CORS](http://discuss.emberjs.com/t/ember-data-and-cors/3690/4)
 * [Using Ancestry/Self-Join Relationships in Ember and Rails](https://github.com/brandonjmckay/ember-ancestry-example)
+* [Ember Data: Mastering async relationship - Part 1](http://thau.me/2014/09/ember-data-mastering-async-relationships/)
+* [Ember Data: Mastering async relationship - Part 2](http://thau.me/2014/11/ember-data-mastering-async-relationships-part-2/)
 
 ### Serialization
 
@@ -237,6 +240,7 @@
 * [Presentation on Drag & Drop in Ember](http://slides.com/bantic/emberjs-drag-and-drop)
 * [Form Validation using native HTML5 rules](https://github.com/maestrooo/ember-cli-html5-validation)
 * [A Simple Auto Expanding Textarea Component](http://ember.zone/a-simple-auto-expanding-textarea-component/)
+* [Building a real world pagination with Ember.js - the right way](http://webcloud.info/blog/2014/11/01/building-a-real-world-pagination-with-ember-js-the-right-way/)
 
 ## Modals
 > Useful resources for working with modals in Ember
@@ -275,6 +279,9 @@
 * [Ember.run.bind](http://balinterdi.com/2014/05/09/ember-dot-run-dot-bind.html)
 * [Unit Testing Ember.js, How I Learned to Stop Worrying and Love the Runloop](http://www.thesoftwaresimpleton.com/blog/2012/04/03/testing-ember-and-the-runloop/)
 * [Ember runloop handbook](https://github.com/eoinkelly/ember-runloop-handbook)
+* [Everything You Never Wanted to Know About the Ember Run Loop](http://alexmatchneer.com/blog/2013/01/12/everything-you-never-wanted-to-know-about-the-ember-run-loop/)
+* [A 50,000 foot overview of the Ember.js Run Loop](http://ember.zone/a-50000-foot-overview-of-the-ember-js-run-loop/)
+* [Avoiding Reflows using Ember's Run Loop](http://www.robharper.ca/2013/05/26/2013-05-26-avoiding-reflows-using-embers-runloop/)
 
 ## Performance
 > Useful resources for performance
@@ -399,6 +406,7 @@
 * [Ember.js Tutorial With Rails 4](http://www.railsonmaui.com/blog/2013/06/11/emberjs-rails4-tutorial/)
 * [Basic Alerting System with ActionController::Live and Ember.js](http://blog.geokoumpa.com/basic-alerting-system-with-actioncontrollerlive-and-ember-js/)
 * [Introducing JSONAPI::Resources](http://www.cerebris.com/blog/2014/08/22/introducing-jsonapi-resources/)
+* [Pretty URL's with Active Model Serializers and Ember.js](http://blog.learningspaces.io/pretty-urls/)
 
 ### Firebase
 
@@ -477,3 +485,18 @@
 * [Modern Mobile Web Apps (using Ember.js)](https://docs.google.com/presentation/d/1Is4f881t0pImLAQLCz4AlcLaUL8Fk4-C_Q2Hbu2DhS4/)
 
 Please note: Some of the links may not be as relevant as when they were originally written. The Ember.js ecosystem is under active development and things a liable to change. If you feel something should be removed just let me know.
+
+---
+
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <span resource="[_:publisher]" rel="dct:publisher">
+    <span property="dct:title">Chris Masters</span></span>
+  has waived all copyright and related or neighboring rights to
+  this work.
+</p>
